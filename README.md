@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Aryan am 17y/o
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Java and Unreal Engine
+- 💞️ I’m Open to Join Game Jam Teams.
+- 📫 How to reach me liveerookie@gmail.com
+
+<!---
+CallMeAryan/CallMeAryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
