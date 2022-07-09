@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Aryan am 17y/o
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Java and Unreal Engine
+- 🌱 I’m currently learning Java, Unreal Engine and Unity.
 - 💞️ I’m Open to Join Game Jam Teams.
 - 📫 How to reach me liveerookie@gmail.com
 
