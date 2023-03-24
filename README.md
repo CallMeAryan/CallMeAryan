@@ -1,4 +1,4 @@
-### Hi there 👋, I’m Aryan am 17y/o
+### Hi there 👋, I’m Aryan am 18y/o
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Java, Unreal Engine and Unity.
 - 💞️ I’m Open to Join Game Jam Teams.
