@@ -8,11 +8,8 @@ I've been making games with C# for over 5 Years now, Making minecraft spigot, nu
 
 ### My Projects
 CEO @ COMMING-SOON
-
 CEO @ COMMING-SOON
-
 EX-OWNER @ VOIDCRAFT
-
 EX-OWNER @ POGMC
 
 * 🌍  I'm based in India
