@@ -7,7 +7,6 @@ I am Java, React, C#, C++, Python Developer
 I've been making games with C# for over 5 Years now, Making minecraft spigot, nukkit plugin from over a year, i am also a 3D modeler, Pixel artist and a beginner illustrator. 
 
 ### My Projects
-<br>
 CEO @ COMMING-SOON
 <br>
 CEO @ COMMING-SOON
@@ -15,7 +14,7 @@ CEO @ COMMING-SOON
 EX-OWNER @ VOIDCRAFT
 <br>
 EX-OWNER @ POGMC
-
+<br>
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [(comming-soon)](http://google.com)
 * ✉️  You can contact me at [liveerookie@gmail.com](mailto:liveerookie@gmail.com)
