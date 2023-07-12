@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Java, React, C#, C++, Python Developer
 -------------------------------------------
 
-I've been making games with C# for over 5 Years now, Making minecraft spigot, nukkit plugin from over a year, i am also a 3D modeler, Pixel artist and a beginner illustrator. CEO @ <COMMING-SOON> CEO @ <COMMING-SOON> EX-OWNER @ VOIDCRAFT EX-OWNER @ POGMC
+I've been making games with C# for over 5 Years now, Making minecraft spigot, nukkit plugin from over a year, i am also a 3D modeler, Pixel artist and a beginner illustrator. 
+CEO @ COMMING-SOON 
+CEO @ COMMING-SOON
+EX-OWNER @ VOIDCRAFT
+EX-OWNER @ POGMC
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [(comming-soon)](http://google.com)
