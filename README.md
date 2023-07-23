@@ -21,7 +21,7 @@ EX-OWNER @ POGMC
 * 🚀  I'm currently working on [(comming-soon)](http://google.com)
 * 🧠  I'm learning React, CSS, HTML.
 * 🤝  I'm open to collaborating on Work on 2D, 3D Games, game jams, minecraft servers.
-* ⚡  I'm open to learn anything new and work on anaything cool
+* ⚡  I'm open to learn anything new and work on anything cool
 
 ### Skills
 
