@@ -19,7 +19,6 @@ EX-OWNER @ POGMC
 * 🖥️  See my portfolio at [(comming-soon)](http://google.com)
 * ✉️  You can contact me at [liveerookie@gmail.com](mailto:liveerookie@gmail.com)
 * 🚀  I'm currently working on [(comming-soon)](http://google.com)
-* 🧠  I'm learning React, CSS, HTML.
 * 🤝  I'm open to collaborating on Work on 2D, 3D Games, game jams, minecraft servers.
 * ⚡  I'm open to learn anything new and work on anything cool
 
